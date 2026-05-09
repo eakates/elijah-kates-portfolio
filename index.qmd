@@ -1,0 +1,28 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-banner}
+
+::: {.hero-content}
+
+<h2 class="hero-name">Elijah Kates</h2>
+
+<h4 class="hero-subtitle">
+Digital Marketing • Analytics • Creative Strategy
+</h4>
+
+Building projects across marketing analytics, research, digital strategy, and creative media.
+
+[View Projects](projects.qmd){.btn .btn-primary}
+
+:::
+
+::: {.hero-image}
+
+![](images/elijahkatesheadshotedit.JPEG)
+
+:::
+
+:::

@@ -1,0 +1,152 @@
+---
+title: "Projects"
+---
+
+# Featured Projects
+
+A collection of academic, analytical, creative, and client facing projects showcasing my experience in digital marketing, consumer behavior, research, content strategy, and data analysis.
+
+---
+
+# Independent E-Commerce Business
+
+## Overview
+
+Operate an independent online reselling business through platforms like Depop and eBay with over 280 completed sales. The business involves managing every stage of the process independently, from sourcing inventory to customer communication and fulfillment.
+
+## Responsibilities
+
+- Product sourcing and trend analysis  
+- Pricing strategy and listing optimization  
+- Product photography and visual branding  
+- Customer communication and fulfillment logistics  
+- Inventory management and platform operations  
+
+## Skills Used
+
+E-commerce, branding, analytics, consumer behavior, Photoshop, operations, digital marketing
+
+---
+
+# CPP Nursery SEO & Content Marketing Project
+
+## Overview
+
+Worked with a student team to support promotional efforts for the Cal Poly Pomona Nursery’s Tomatozania event through SEO research, digital content planning, and campaign strategy.
+
+## My Contributions
+
+- Assisted with SEO keyword research and optimization  
+- Helped develop content strategy for event promotion  
+- Participated in YouTube content planning and production  
+- Contributed to campaign collaboration and marketing discussions  
+- Supported future campaign planning for upcoming nursery events  
+
+## Skills Used
+
+SEO, content marketing, analytics, digital strategy, collaboration, campaign planning
+
+---
+
+# Statistics Without Borders AI Research Project
+
+## Overview
+
+Collaborated with a student research team on a client facing project for Statistics Without Borders focused on AI usage among business students. The project involved survey creation, participant outreach, data collection, analysis, and presentation of findings.
+
+## My Contributions
+
+- Assisted with survey development and research planning  
+- Participated in collecting survey responses through in person outreach and Zoom sessions  
+- Helped organize and analyze participant response data  
+- Contributed to data visualization and presentation development  
+- Collaborated with team members to communicate findings clearly and professionally  
+
+## Skills Used
+
+Research methods, survey design, data analysis, teamwork, presentation, communication
+
+---
+
+# Marketing Analytics & Data Visualization Project
+
+## Overview
+
+Led a team based data analysis project using R, Positron, GitHub, and data wrangling techniques to analyze student response datasets provided for academic research purposes.
+
+## My Contributions
+
+- Helped lead project organization and technical workflow  
+- Used R for cleaning, organizing, and analyzing datasets  
+- Assisted with visualization and interpretation of research findings  
+- Collaborated through GitHub and reproducible workflow practices  
+- Presented analytical findings through data storytelling and visualization  
+
+## Skills Used
+
+R, Positron, GitHub, data wrangling, visualization, analytics, teamwork
+
+---
+
+# Smart Pocket Consumer Behavior Project
+
+## Overview
+
+Co developed a conceptual AI powered savings and investment tool called *Smart Pocket* designed to integrate directly into existing mobile banking apps. The project focused on applying consumer behavior principles to identify target audiences, user needs, and marketing opportunities.
+
+## My Contributions
+
+- Helped lead project direction and concept development  
+- Contributed to survey creation and demographic research  
+- Assisted in identifying target consumer segments  
+- Applied consumer behavior concepts to product positioning and messaging  
+- Collaborated on strategy, presentation, and overall project structure  
+
+## Skills Used
+
+Consumer behavior, marketing strategy, audience segmentation, survey analysis, teamwork
+
+---
+
+# Workplace Communication Analysis Project
+
+## Overview
+
+Participated in a large scale research and presentation project analyzing communication barriers within organizations and how companies manage public trust during crisis situations.
+
+## Focus Areas
+
+- Workplace communication challenges  
+- Consumer trust and crisis communication  
+- Organizational messaging strategies  
+- Analysis of real-world business examples and communication failures  
+
+## Skills Used
+
+Research, analysis, communication strategy, presentation, collaboration
+
+---
+
+# Pepsi Organizational Management Analysis
+
+## Overview
+
+Collaborated on a business presentation analyzing Pepsi’s organizational structure, management hierarchy, and internal communication systems. The project focused on understanding how large organizations coordinate operations, communicate across departments, and maintain brand success at scale.
+
+## Focus Areas
+
+- Corporate management structure  
+- Organizational communication workflows  
+- Brand success and operational strategy  
+- Areas for organizational improvement and efficiency  
+
+## My Contributions
+
+- Assisted with organizational research and analysis  
+- Helped evaluate communication flow across management levels  
+- Contributed to presentation development and strategic discussion  
+- Participated in analyzing factors contributing to Pepsi’s long-term brand success  
+
+## Skills Used
+
+Management analysis, communication strategy, presentation, research, teamwork
