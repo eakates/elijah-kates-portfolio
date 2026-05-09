@@ -1,45 +1,164 @@
 [
   {
-    "objectID": "dashboard.html#research-workflow",
-    "href": "dashboard.html#research-workflow",
-    "title": "Marketing Analytics Dashboard",
-    "section": "Research Workflow",
-    "text": "Research Workflow\n\nData Wrangling & Cleaning\n\n\n\nThe dataset was imported, cleaned, and reduced to variables relevant to the research question. Missing values were removed before analysis to improve consistency across observations.\n\n\n\nGrouped Summary Analysis\n\n\n\nAfter cleaning the dataset, observations were grouped into participation attitude categories to compare average Sona usability scores and participation attitudes across segments."
-  },
-  {
-    "objectID": "dashboard.html#visualization-findings",
-    "href": "dashboard.html#visualization-findings",
-    "title": "Marketing Analytics Dashboard",
-    "section": "Visualization & Findings",
-    "text": "Visualization & Findings\n\nParticipation Attitudes and Sona Usability\n\n\n\nThe visualization suggests that students with higher participation attitudes generally reported more positive experiences using Sona. Lower participation groups showed greater variability and lower average usability scores.\n\n\n\nStatistical Relationship Analysis\n\n\n\nExploratory analysis identified a moderate positive relationship between Sona usability and attitudes toward research participation."
-  },
-  {
-    "objectID": "dashboard.html#section",
-    "href": "dashboard.html#section",
-    "title": "Marketing Analytics Dashboard",
-    "section": "0.42",
-    "text": "0.42\nThis suggests that students who found the platform easier to use were generally more likely to report positive attitudes toward participating in research activities."
-  },
-  {
-    "objectID": "dashboard.html#tools-technologies",
-    "href": "dashboard.html#tools-technologies",
-    "title": "Marketing Analytics Dashboard",
-    "section": "Tools & Technologies",
-    "text": "Tools & Technologies\n\nR\nPositron\ntidyverse\nggplot2\nSPSS datasets\nData wrangling\nExploratory data analysis\nStatistical visualization\nGitHub workflow management"
-  },
-  {
-    "objectID": "dashboard.html#additional-analytics-experience",
-    "href": "dashboard.html#additional-analytics-experience",
-    "title": "Marketing Analytics Dashboard",
-    "section": "Additional Analytics Experience",
-    "text": "Additional Analytics Experience\n\nCompleted supplemental training in Google Cloud BigQuery and Looker Studio focused on analytics workflows, reporting systems, and data visualization concepts."
-  },
-  {
     "objectID": "contact-us/contact-us.html",
     "href": "contact-us/contact-us.html",
     "title": "Contact Us",
     "section": "",
     "text": "Template"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elijah Kates | Marketing Portfolio",
+    "section": "",
+    "text": "Elijah Kates\n\n\nDigital Marketing • Analytics • Creative Strategy\n\nBuilding projects across marketing analytics, research, digital strategy, and creative media.\nView Projects"
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Social Media Engagement Analysis",
+    "section": "",
+    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Customer Segmentation Using Clustering",
+    "section": "",
+    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+  },
+  {
+    "objectID": "dashboard.html#data-wrangling-cleaning",
+    "href": "dashboard.html#data-wrangling-cleaning",
+    "title": "Marketing Analytics Dashboard",
+    "section": "Data Wrangling & Cleaning",
+    "text": "Data Wrangling & Cleaning\n\n\nThe dataset was imported and cleaned in R using structured data wrangling workflows. Variables unrelated to the research question were removed, missing observations were filtered out, and the remaining dataset was standardized for analysis.\nThis process improved consistency across observations and created a cleaner foundation for exploratory analysis and visualization."
+  },
+  {
+    "objectID": "dashboard.html#grouped-summary-analysis",
+    "href": "dashboard.html#grouped-summary-analysis",
+    "title": "Marketing Analytics Dashboard",
+    "section": "Grouped Summary Analysis",
+    "text": "Grouped Summary Analysis\n\n\n\n\nAfter cleaning the dataset, observations were grouped into participation attitude categories to compare average usability perceptions and participation sentiment across segments.\nThe grouped summaries helped identify trends in how students interacted with the Sona research participation platform."
+  },
+  {
+    "objectID": "dashboard.html#participation-attitudes-and-sona-usability",
+    "href": "dashboard.html#participation-attitudes-and-sona-usability",
+    "title": "Marketing Analytics Dashboard",
+    "section": "Participation Attitudes and Sona Usability",
+    "text": "Participation Attitudes and Sona Usability\n\n\nThe visualization suggests that students with more positive participation attitudes generally reported stronger usability experiences with Sona.\nLower participation groups showed greater variability and lower average usability scores, indicating a less consistent platform experience among disengaged participants."
+  },
+  {
+    "objectID": "dashboard.html#relationship-analysis",
+    "href": "dashboard.html#relationship-analysis",
+    "title": "Marketing Analytics Dashboard",
+    "section": "Relationship Analysis",
+    "text": "Relationship Analysis\n\n\n\n\nExploratory analysis identified a moderate positive relationship between Sona usability and attitudes toward research participation.\n\nCorrelation Coefficient: 0.42\nA positive correlation of 0.42 suggests that students who found the platform easier to use were generally more likely to report positive attitudes toward participating in research activities."
+  },
+  {
+    "objectID": "dashboard.html#correlation-coefficient-0.42",
+    "href": "dashboard.html#correlation-coefficient-0.42",
+    "title": "Marketing Analytics Dashboard",
+    "section": "Correlation Coefficient: 0.42",
+    "text": "Correlation Coefficient: 0.42\nA positive correlation of 0.42 suggests that students who found the platform easier to use were generally more likely to report positive attitudes toward participating in research activities."
+  },
+  {
+    "objectID": "presentation.html#project-overview",
+    "href": "presentation.html#project-overview",
+    "title": "Presentation",
+    "section": "Project Overview",
+    "text": "Project Overview\nThis presentation explores student attitudes toward research participation systems and analyzes relationships between ease of use, participation attitudes, and engagement.\n\nTools Used\n\nR\nQuarto\nggplot2\nTidyverse\nRevealJS\nStatistical Analysis"
+  },
+  {
+    "objectID": "presentation.html#key-areas-covered",
+    "href": "presentation.html#key-areas-covered",
+    "title": "Presentation",
+    "section": "Key Areas Covered",
+    "text": "Key Areas Covered\n\nData wrangling and cleaning\nExploratory data analysis\nCorrelation analysis\nData visualization\nInterpretation of survey findings\nTeam research collaboration"
+  },
+  {
+    "objectID": "presentation.html#presentation-preview",
+    "href": "presentation.html#presentation-preview",
+    "title": "Presentation",
+    "section": "Presentation Preview",
+    "text": "Presentation Preview"
+  },
+  {
+    "objectID": "resume.html#elijah-kates",
+    "href": "resume.html#elijah-kates",
+    "title": "Resume",
+    "section": "Elijah Kates",
+    "text": "Elijah Kates\nLa Verne, CA\n909-837-9710\nElikates03@gmail.com\nLinkedIn: linkedin.com/in/elijahkates"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Resume",
+    "section": "Summary",
+    "text": "Summary\nMarketing focused Business Administration student at Cal Poly Pomona with experience in digital marketing, analytics, customer facing operations, and entrepreneurship. Certified in Google Analytics and Google Ads with hands-on experience in SEO strategy, content creation, e commerce operations, and market research."
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\n\nIndependent Online Reseller (Self-Employed)\nDepop & eBay | 2025 – Present\n\nBuilt and operate an independent e commerce business with 277+ completed sales\nManage inventory, pricing strategy, customer communication, and shipping logistics\nSource inventory through trend research and resale market analysis\nPhotograph, edit, and optimize product listings using Photoshop\n\n\n\nOnline Grocery Associate\nWalmart | 2021 – Present\n\nManaged high volume order fulfillment and logistics\nCoordinated with delivery drivers to resolve customer order issues\nTrusted by leadership to maintain operations during leadership absence\nDelivered customer service support and processed refunds/issues\n\n\n\nContent & SEO Intern\nCal Poly Pomona Nursery | 2026\n\nCollaborated on SEO strategy for Tomatozania event promotion\nScripted, filmed, and edited YouTube content\nAssisted in content planning and digital campaign strategy"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\nCalifornia State Polytechnic University, Pomona\nB.S. Business Administration — Digital Marketing & Sports/Entertainment Marketing\nExpected Graduation: 2027\nRelevant Coursework: - Marketing Strategy - Consumer Behavior - Business Analytics - AI in Marketing"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "Certifications",
+    "text": "Certifications\n\nGoogle Analytics Certification\nGoogle Ads Search Certification\nGoogle Ads Display Certification\nServSafe Food Handler Certification"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\n\nMarketing & Analytics\n\nGoogle Analytics (GA4)\nGoogle Ads\nSEO\nContent Creation\nMarket Research\nConsumer Behavior\n\n\n\nCreative & Technical\n\nAdobe Photoshop\nProduct Photography\nAI Productivity Tools\nMicrosoft Excel\nGoogle Workspace\n\n\n\nOperations & Leadership\n\nTeam Leadership\nCustomer Service\nInventory & Logistics\nPublic Speaking\nConflict Resolution"
+  },
+  {
+    "objectID": "resume.html#projects-ventures",
+    "href": "resume.html#projects-ventures",
+    "title": "Resume",
+    "section": "Projects & Ventures",
+    "text": "Projects & Ventures\n\nThird Channel\nPersonal creative brand focused on media, storytelling, marketing, and digital production.\n\n\nStatistics Without Borders AI Policy Project\nCollaborated on AI policy development and market strategy research through focus groups and qualitative analysis.\n\n\nCommunication Barriers in the Workplace\nAcademic research project analyzing workplace communication and organizational collaboration.\n\n\nSmart Pocket Mobile App Concept\nConsumer behavior course project focused on financial technology positioning and strategic messaging."
+  },
+  {
+    "objectID": "listings/02-seo-benchmarking-analysis.html",
+    "href": "listings/02-seo-benchmarking-analysis.html",
+    "title": "SEO Benchmarking Analysis",
+    "section": "",
+    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
+  },
+  {
+    "objectID": "listings/04-funnel-attribution-model.html",
+    "href": "listings/04-funnel-attribution-model.html",
+    "title": "Marketing Funnel Attribution Model",
+    "section": "",
+    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Campaign Insights Dashboard",
+    "section": "",
+    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
   },
   {
     "objectID": "projects.html#overview",
@@ -196,269 +315,10 @@
     "text": "Skills Used\nManagement analysis, communication strategy, presentation, research, teamwork"
   },
   {
-    "objectID": "resume/Resume.html",
-    "href": "resume/Resume.html",
-    "title": "Professional Summary",
-    "section": "",
-    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
-  },
-  {
-    "objectID": "listings/05-social-media-engagement.html",
-    "href": "listings/05-social-media-engagement.html",
-    "title": "Social Media Engagement Analysis",
-    "section": "",
-    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
-  },
-  {
-    "objectID": "listings/03-customer-segmentation-clustering.html",
-    "href": "listings/03-customer-segmentation-clustering.html",
-    "title": "Customer Segmentation Using Clustering",
-    "section": "",
-    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Résumé",
-    "section": "",
-    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
-  },
-  {
-    "objectID": "listings/02-seo-benchmarking-analysis.html",
-    "href": "listings/02-seo-benchmarking-analysis.html",
-    "title": "SEO Benchmarking Analysis",
-    "section": "",
-    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
-  },
-  {
-    "objectID": "listings/04-funnel-attribution-model.html",
-    "href": "listings/04-funnel-attribution-model.html",
-    "title": "Marketing Funnel Attribution Model",
-    "section": "",
-    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
-  },
-  {
-    "objectID": "listings/01-campaign-insights-dashboard.html",
-    "href": "listings/01-campaign-insights-dashboard.html",
-    "title": "Campaign Insights Dashboard",
-    "section": "",
-    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
-  },
-  {
-    "objectID": "strategic-marketing.html",
-    "href": "strategic-marketing.html",
-    "title": "Strategic Marketing",
-    "section": "",
-    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "href": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 1: Strategic Campaign Planning]",
-    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "href": "strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 2: Brand Audit & Positioning]",
-    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
-    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
-    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
-  },
-  {
     "objectID": "contact-us/thank-you.html",
     "href": "contact-us/thank-you.html",
     "title": "Thank you",
     "section": "",
     "text": "Form submitted."
-  },
-  {
-    "objectID": "dashboard.html#correlation-coefficient-0.42",
-    "href": "dashboard.html#correlation-coefficient-0.42",
-    "title": "Marketing Analytics Dashboard",
-    "section": "Correlation Coefficient: 0.42",
-    "text": "Correlation Coefficient: 0.42\nA positive correlation of 0.42 suggests that students who found the platform easier to use were generally more likely to report positive attitudes toward participating in research activities."
-  },
-  {
-    "objectID": "dashboard.html#analytics-certifications-training",
-    "href": "dashboard.html#analytics-certifications-training",
-    "title": "Marketing Analytics Dashboard",
-    "section": "Analytics Certifications & Training",
-    "text": "Analytics Certifications & Training\n\n\n\nCompleted supplemental training in Google Cloud BigQuery and Looker Studio focused on analytics workflows, reporting systems, and data visualization concepts."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Home",
-    "section": "About Me",
-    "text": "About Me\nI am currently pursuing a degree in Business Administration with a concentration in Digital Marketing at Cal Poly Pomona.\nMy background combines hands-on experience with marketing strategy. I operate an independent e-commerce business with over 270 completed sales, where I manage product sourcing, pricing, visual presentation, and customer experience end-to-end. This has given me a practical understanding of how marketing decisions directly impact performance.\nIn addition, I have worked on client-facing projects, including SEO strategy and content creation for the Cal Poly Pomona Nursery. I’ve contributed to campaign planning, video production, and digital content designed to improve visibility and engagement.\nThrough both academic and real-world experience, I’ve developed a strong foundation in consumer behavior, digital marketing, and performance analysis."
-  },
-  {
-    "objectID": "index.html#what-i-bring",
-    "href": "index.html#what-i-bring",
-    "title": "Home",
-    "section": "What I Bring",
-    "text": "What I Bring\n\nExperience running a full-cycle e-commerce business\n\nStrong foundation in digital marketing, SEO, and content strategy\n\nAbility to analyze data and apply it to real marketing decisions\n\nHands-on experience with tools like R, Google Analytics, and Photoshop\n\nProven work ethic, leadership experience, and ability to perform in fast-paced environments"
-  },
-  {
-    "objectID": "index.html#lets-connect",
-    "href": "index.html#lets-connect",
-    "title": "Home",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect\nYou can reach me at Elikates03@gmail.com or connect with me on LinkedIn.\n\nWelcome to my portfolio."
-  },
-  {
-    "objectID": "presentation.html#overview",
-    "href": "presentation.html#overview",
-    "title": "Presentation",
-    "section": "Overview",
-    "text": "Overview\nProject overview"
-  },
-  {
-    "objectID": "presentation.html#data",
-    "href": "presentation.html#data",
-    "title": "Presentation",
-    "section": "Data",
-    "text": "Data\nDataset description"
-  },
-  {
-    "objectID": "presentation.html#analysis",
-    "href": "presentation.html#analysis",
-    "title": "Presentation",
-    "section": "Analysis",
-    "text": "Analysis\nWhat was done"
-  },
-  {
-    "objectID": "presentation.html#results",
-    "href": "presentation.html#results",
-    "title": "Presentation",
-    "section": "Results",
-    "text": "Results\nKey findings"
-  },
-  {
-    "objectID": "dashboard.html#overview",
-    "href": "dashboard.html#overview",
-    "title": "Marketing Analytics Dashboard",
-    "section": "Overview",
-    "text": "Overview\nThis page highlights selected analytics and research projects completed using R, ggplot2, SPSS datasets, and exploratory data analysis workflows. These projects focus on transforming raw data into interpretable insights through data wrangling, visualization, segmentation, and statistical analysis.\nThe work shown below reflects experience working with real datasets, research based projects, and analytical reporting methods commonly used in marketing analytics and business research environments."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Elijah Kates | Marketing Portfolio",
-    "section": "",
-    "text": "Elijah Kates\n\n\nDigital Marketing • Analytics • Creative Strategy\n\nBuilding projects across marketing analytics, research, digital strategy, and creative media.\nView Projects"
-  },
-  {
-    "objectID": "resume.html#elijah-kates",
-    "href": "resume.html#elijah-kates",
-    "title": "Resume",
-    "section": "Elijah Kates",
-    "text": "Elijah Kates\nLa Verne, CA\n909-837-9710\nElikates03@gmail.com\nLinkedIn: linkedin.com/in/elijahkates"
-  },
-  {
-    "objectID": "resume.html#summary",
-    "href": "resume.html#summary",
-    "title": "Resume",
-    "section": "Summary",
-    "text": "Summary\nMarketing focused Business Administration student at Cal Poly Pomona with experience in digital marketing, analytics, customer facing operations, and entrepreneurship. Certified in Google Analytics and Google Ads with hands-on experience in SEO strategy, content creation, e commerce operations, and market research."
-  },
-  {
-    "objectID": "resume.html#experience",
-    "href": "resume.html#experience",
-    "title": "Resume",
-    "section": "Experience",
-    "text": "Experience\n\nIndependent Online Reseller (Self-Employed)\nDepop & eBay | 2025 – Present\n\nBuilt and operate an independent e commerce business with 277+ completed sales\nManage inventory, pricing strategy, customer communication, and shipping logistics\nSource inventory through trend research and resale market analysis\nPhotograph, edit, and optimize product listings using Photoshop\n\n\n\nOnline Grocery Associate\nWalmart | 2021 – Present\n\nManaged high volume order fulfillment and logistics\nCoordinated with delivery drivers to resolve customer order issues\nTrusted by leadership to maintain operations during leadership absence\nDelivered customer service support and processed refunds/issues\n\n\n\nContent & SEO Intern\nCal Poly Pomona Nursery | 2026\n\nCollaborated on SEO strategy for Tomatozania event promotion\nScripted, filmed, and edited YouTube content\nAssisted in content planning and digital campaign strategy"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Resume",
-    "section": "Education",
-    "text": "Education\n\nCalifornia State Polytechnic University, Pomona\nB.S. Business Administration — Digital Marketing & Sports/Entertainment Marketing\nExpected Graduation: 2027\nRelevant Coursework: - Marketing Strategy - Consumer Behavior - Business Analytics - AI in Marketing"
-  },
-  {
-    "objectID": "resume.html#certifications",
-    "href": "resume.html#certifications",
-    "title": "Resume",
-    "section": "Certifications",
-    "text": "Certifications\n\nGoogle Analytics Certification\nGoogle Ads Search Certification\nGoogle Ads Display Certification\nServSafe Food Handler Certification"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Resume",
-    "section": "Skills",
-    "text": "Skills\n\nMarketing & Analytics\n\nGoogle Analytics (GA4)\nGoogle Ads\nSEO\nContent Creation\nMarket Research\nConsumer Behavior\n\n\n\nCreative & Technical\n\nAdobe Photoshop\nProduct Photography\nAI Productivity Tools\nMicrosoft Excel\nGoogle Workspace\n\n\n\nOperations & Leadership\n\nTeam Leadership\nCustomer Service\nInventory & Logistics\nPublic Speaking\nConflict Resolution"
-  },
-  {
-    "objectID": "resume.html#projects-ventures",
-    "href": "resume.html#projects-ventures",
-    "title": "Resume",
-    "section": "Projects & Ventures",
-    "text": "Projects & Ventures\n\nThird Channel\nPersonal creative brand focused on media, storytelling, marketing, and digital production.\n\n\nStatistics Without Borders AI Policy Project\nCollaborated on AI policy development and market strategy research through focus groups and qualitative analysis.\n\n\nCommunication Barriers in the Workplace\nAcademic research project analyzing workplace communication and organizational collaboration.\n\n\nSmart Pocket Mobile App Concept\nConsumer behavior course project focused on financial technology positioning and strategic messaging."
-  },
-  {
-    "objectID": "presentation.html#project-overview",
-    "href": "presentation.html#project-overview",
-    "title": "Presentation",
-    "section": "Project Overview",
-    "text": "Project Overview\nThis presentation explores student attitudes toward research participation systems and analyzes relationships between ease of use, participation attitudes, and engagement.\n\nTools Used\n\nR\nQuarto\nggplot2\nTidyverse\nRevealJS\nStatistical Analysis"
-  },
-  {
-    "objectID": "presentation.html#key-areas-covered",
-    "href": "presentation.html#key-areas-covered",
-    "title": "Presentation",
-    "section": "Key Areas Covered",
-    "text": "Key Areas Covered\n\nData wrangling and cleaning\nExploratory data analysis\nCorrelation analysis\nData visualization\nInterpretation of survey findings\nTeam research collaboration"
-  },
-  {
-    "objectID": "presentation.html#presentation-preview",
-    "href": "presentation.html#presentation-preview",
-    "title": "Presentation",
-    "section": "Presentation Preview",
-    "text": "Presentation Preview"
-  },
-  {
-    "objectID": "dashboard.html#data-wrangling-cleaning",
-    "href": "dashboard.html#data-wrangling-cleaning",
-    "title": "Marketing Analytics Dashboard",
-    "section": "Data Wrangling & Cleaning",
-    "text": "Data Wrangling & Cleaning\n\n\nThe dataset was imported and cleaned in R using structured data wrangling workflows. Variables unrelated to the research question were removed, missing observations were filtered out, and the remaining dataset was standardized for analysis.\nThis process improved consistency across observations and created a cleaner foundation for exploratory analysis and visualization."
-  },
-  {
-    "objectID": "dashboard.html#grouped-summary-analysis",
-    "href": "dashboard.html#grouped-summary-analysis",
-    "title": "Marketing Analytics Dashboard",
-    "section": "Grouped Summary Analysis",
-    "text": "Grouped Summary Analysis\n\n\n\n\nAfter cleaning the dataset, observations were grouped into participation attitude categories to compare average usability perceptions and participation sentiment across segments.\nThe grouped summaries helped identify trends in how students interacted with the Sona research participation platform."
-  },
-  {
-    "objectID": "dashboard.html#participation-attitudes-and-sona-usability",
-    "href": "dashboard.html#participation-attitudes-and-sona-usability",
-    "title": "Marketing Analytics Dashboard",
-    "section": "Participation Attitudes and Sona Usability",
-    "text": "Participation Attitudes and Sona Usability\n\n\nThe visualization suggests that students with more positive participation attitudes generally reported stronger usability experiences with Sona.\nLower participation groups showed greater variability and lower average usability scores, indicating a less consistent platform experience among disengaged participants."
-  },
-  {
-    "objectID": "dashboard.html#relationship-analysis",
-    "href": "dashboard.html#relationship-analysis",
-    "title": "Marketing Analytics Dashboard",
-    "section": "Relationship Analysis",
-    "text": "Relationship Analysis\n\n\n\n\nExploratory analysis identified a moderate positive relationship between Sona usability and attitudes toward research participation.\n\nCorrelation Coefficient: 0.42\nA positive correlation of 0.42 suggests that students who found the platform easier to use were generally more likely to report positive attitudes toward participating in research activities."
   }
 ]
