@@ -10,6 +10,19 @@ A collection of analytical, creative, and research based projects showcasing exp
 
 ::: {.column width="33%"}
 
+### CPP Nursery SEO Project
+
+Supported digital marketing efforts for Tomatozania through SEO research, content strategy, YouTube planning, and campaign collaboration.
+
+**Focus Areas**  
+SEO • Content Strategy • Marketing • Collaboration
+
+[View CPP Nursery Project](#cpp-nursery-seo-content-marketing-project){.btn .btn-primary}
+
+:::
+
+::: {.column width="33%"}
+
 ### Marketing Analytics & Data Visualization
 
 Applied R, Positron, GitHub, and data wrangling techniques to analyze research datasets and communicate findings through visualization and storytelling.
@@ -31,19 +44,6 @@ Collaborated on a client facing research project analyzing AI usage among busine
 Research • Survey Design • Data Analysis • Presentation
 
 [View Research Project](#statistics-without-borders-ai-research-project){.btn .btn-primary}
-
-:::
-
-::: {.column width="33%"}
-
-### CPP Nursery SEO Project
-
-Supported digital marketing efforts for Tomatozania through SEO research, content strategy, YouTube planning, and campaign collaboration.
-
-**Focus Areas**  
-SEO • Content Strategy • Marketing • Collaboration
-
-[View CPP Nursery Project](#cpp-nursery-seo-content-marketing-project){.btn .btn-primary}
 
 :::
 

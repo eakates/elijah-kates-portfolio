@@ -272,3 +272,26 @@ hr {
   color: #C69214;
   transform: translateY(-3px);
 }
+
+/* PROJECT CARD LAYOUT */
+
+.columns {
+  align-items: stretch;
+}
+
+.columns > .column {
+  display: flex;
+}
+
+.columns > .column > div,
+.columns > .column > section {
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+}
+
+.columns .btn {
+  margin-top: auto;
+  align-self: flex-start;
+}

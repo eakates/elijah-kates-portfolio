@@ -1,6 +1,7 @@
 ---
 title: ""
 page-layout: full
+toc: false
 ---
 
 ::: {.hero-banner}
@@ -32,3 +33,11 @@ Building projects across marketing analytics, research, digital strategy, and cr
 :::
 
 :::
+
+---
+
+## About Me
+
+I'm a Digital Marketing student at Cal Poly Pomona drawn to the space where data and storytelling meet. My work pulls from coursework, research collaborations, and hands on projects across SEO, content strategy, consumer behavior, and analytics, applying tools like R, Positron, and Google Analytics where the work calls for it.
+
+Outside the classroom, I run my own e-commerce business, managing everything from sourcing and pricing to branding and fulfillment. It's given me a ground level understanding of how marketing, operations, and consumer behavior connect in practice.
