@@ -7,7 +7,7 @@ page-layout: full
 
 A featured presentation showcasing applied research, data analysis, and marketing insights developed through coursework at Cal Poly Pomona.
 
-[Open Full Presentation](presentation/rpe-presentation.html){.btn .btn-primary target="_blank"}
+[Open Full Presentation](presentation/finalrpe-presentation.html){.btn .btn-primary target="_blank"}
 
 ---
 
