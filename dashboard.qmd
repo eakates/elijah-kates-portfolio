@@ -5,7 +5,7 @@ page-layout: full
 
 # Marketing Analytics Dashboard
 
-Applied analytics projects focused on transforming raw data into actionable insights through research workflows, statistical visualization, and exploratory analysis.
+A collection of analytics projects where I took messy, real world data and turned it into something actually useful through data wrangling, statistical visualization, and exploratory analysis.
 
 <br>
 
@@ -74,9 +74,9 @@ The grouped summaries helped identify trends in how students interacted with the
 
 ::: {.column width="55%"}
 
-The visualization suggests that students with more positive participation attitudes generally reported stronger usability experiences with Sona.
+Students with more positive participation attitudes tended to report stronger usability experiences with Sona. 
 
-Lower participation groups showed greater variability and lower average usability scores, indicating a less consistent platform experience among disengaged participants.
+On the other hand, lower participation groups showed less consistency in their scores, suggesting that students who were less engaged tended to have a more uneven experience with the platform. 
 
 :::
 
@@ -101,7 +101,7 @@ Lower participation groups showed greater variability and lower average usabilit
 
 ::: {.column width="55%"}
 
-Exploratory analysis identified a moderate positive relationship between Sona usability and attitudes toward research participation.
+The analysis pointed to a moderate positive relationship between how usable students found Sona and how they felt about research participation overall.
 
 ## Correlation Coefficient: 0.42
 

@@ -17,6 +17,12 @@ Building projects across marketing analytics, research, digital strategy, and cr
 
 [View Projects](projects.qmd){.btn .btn-primary}
 
+[LinkedIn](https://www.linkedin.com/in/elijah-kates){target="_blank"}
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[GitHub](https://github.com/eakates){target="_blank"}
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[Email](mailto:elikates03@gmail.com)
+
 :::
 
 ::: {.hero-image}

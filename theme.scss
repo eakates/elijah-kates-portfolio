@@ -252,3 +252,23 @@ hr {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
+
+/* HERO SOCIAL LINKS */
+
+.hero-links {
+  display: flex;
+  gap: 1.2rem;
+  margin-top: 2rem;
+}
+
+.hero-links a {
+  color: #D6D6D6;
+  font-size: 1.5rem;
+
+  transition: all .25s ease;
+}
+
+.hero-links a:hover {
+  color: #C69214;
+  transform: translateY(-3px);
+}

@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Elijah Kates | Marketing Analytics Portfolio",
+    "title": "Elijah Kates | Portfolio",
     "section": "",
-    "text": "Elijah Kates\n\n\nDigital Marketing • Analytics • Creative Strategy\n\nBuilding projects across marketing analytics, research, digital strategy, and creative media.\nView Projects"
+    "text": "Elijah Kates\n\n\nDigital Marketing • Analytics • Creative Strategy\n\nBuilding projects across marketing analytics, research, digital strategy, and creative media.\nView Projects\nLinkedIn   •   GitHub   •   Email"
   },
   {
     "objectID": "resume/Resume.html",
@@ -53,14 +53,14 @@
     "href": "dashboard.html#participation-attitudes-and-sona-usability",
     "title": "Marketing Analytics Dashboard",
     "section": "Participation Attitudes and Sona Usability",
-    "text": "Participation Attitudes and Sona Usability\n\n\nThe visualization suggests that students with more positive participation attitudes generally reported stronger usability experiences with Sona.\nLower participation groups showed greater variability and lower average usability scores, indicating a less consistent platform experience among disengaged participants."
+    "text": "Participation Attitudes and Sona Usability\n\n\nStudents with more positive participation attitudes tended to report stronger usability experiences with Sona.\nOn the other hand, lower participation groups showed less consistency in their scores, suggesting that students who were less engaged tended to have a more uneven experience with the platform."
   },
   {
     "objectID": "dashboard.html#relationship-analysis",
     "href": "dashboard.html#relationship-analysis",
     "title": "Marketing Analytics Dashboard",
     "section": "Relationship Analysis",
-    "text": "Relationship Analysis\n\n\n\n\nExploratory analysis identified a moderate positive relationship between Sona usability and attitudes toward research participation.\n\nCorrelation Coefficient: 0.42\nA positive correlation of 0.42 suggests that students who found the platform easier to use were generally more likely to report positive attitudes toward participating in research activities."
+    "text": "Relationship Analysis\n\n\n\n\nThe analysis pointed to a moderate positive relationship between how usable students found Sona and how they felt about research participation overall.\n\nCorrelation Coefficient: 0.42\nA positive correlation of 0.42 suggests that students who found the platform easier to use were generally more likely to report positive attitudes toward participating in research activities."
   },
   {
     "objectID": "dashboard.html#correlation-coefficient-0.42",
@@ -102,7 +102,7 @@
     "href": "resume.html#summary",
     "title": "Resume",
     "section": "Summary",
-    "text": "Summary\nMarketing focused Business Administration student at Cal Poly Pomona with experience in digital marketing, analytics, customer facing operations, and entrepreneurship. Certified in Google Analytics and Google Ads with hands-on experience in SEO strategy, content creation, e commerce operations, and market research."
+    "text": "Summary\nMarketing focused Business Administration student at Cal Poly Pomona with experience in digital marketing, analytics, customer facing operations, and entrepreneurship. Certified in Google Analytics and Google Ads with hands on experience in SEO strategy, content creation, e commerce operations, and market research."
   },
   {
     "objectID": "resume.html#experience",

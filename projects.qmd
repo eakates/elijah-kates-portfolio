@@ -4,7 +4,50 @@ title: "Projects"
 
 # Featured Projects
 
-A collection of academic, analytical, creative, and client facing projects showcasing my experience in digital marketing, consumer behavior, research, content strategy, and data analysis.
+A collection of analytical, creative, and research based projects showcasing experience in digital marketing, analytics, strategy, and data visualization.
+
+::: {.columns}
+
+::: {.column width="33%"}
+
+### Marketing Analytics & Data Visualization
+
+Applied R, Positron, GitHub, and data wrangling techniques to analyze research datasets and communicate findings through visualization and storytelling.
+
+**Tools Used**  
+R • Positron • GitHub • ggplot2 • Analytics
+
+[View Dashboard](dashboard.qmd){.btn .btn-primary}
+
+:::
+
+::: {.column width="33%"}
+
+### Statistics Without Borders AI Research
+
+Collaborated on a client facing research project analyzing AI usage among business students through survey design, outreach, data collection, and analytical reporting.
+
+**Focus Areas**  
+Research • Survey Design • Data Analysis • Presentation
+
+[View Research Project](#statistics-without-borders-ai-research-project){.btn .btn-primary}
+
+:::
+
+::: {.column width="33%"}
+
+### CPP Nursery SEO Project
+
+Supported digital marketing efforts for Tomatozania through SEO research, content strategy, YouTube planning, and campaign collaboration.
+
+**Focus Areas**  
+SEO • Content Strategy • Marketing • Collaboration
+
+[View CPP Nursery Project](#cpp-nursery-seo-content-marketing-project){.btn .btn-primary}
+
+:::
+
+:::
 
 ---
 
