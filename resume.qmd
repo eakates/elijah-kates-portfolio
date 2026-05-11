@@ -68,6 +68,7 @@ Relevant Coursework:
 - Google Analytics Certification
 - Google Ads Search Certification
 - Google Ads Display Certification
+- Cal Poly Pomona Data Wrangling and Visualization Badge
 - ServSafe Food Handler Certification
 
 ---
